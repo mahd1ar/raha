@@ -190,11 +190,19 @@ header .logo {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 .menu ul {
     position: relative;
 }
+
+.menu h2{
+    color: #7d7d7d;
+    position: absolute;
+    top: 12px;
+    letter-spacing: 8px;
+    }
 
 .menu ul li {
     list-style: none;
