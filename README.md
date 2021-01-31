@@ -15,14 +15,14 @@ or you can just click on the green button above and click download.
 
 ![sceenshot of github page](screenshots/Screenshot_20210130_193208.png)
 
- download project on your computer and unzip it
+ download the project on your computer and unzip it
 open google chrome.
 
 ### open Chrome extensions tab
-click on the menu on the top right of your Chrome window, click setting to open up the settings panel, and then click "Extensions" button
+click on the menu on from the top on the right side of your Chrome window, click setting to open up the settings panel, and then click "Extensions" button
 ![sceenshot of chrome settings](screenshots/Screenshot_20210131_103858.png)
 
-### Load into Extensions (manually!)
+### Load Extensions (manually!)
 first, toggle "Developer mode" and then click "Load unpacked" and select the project folder
 ![screenshot of chrome extention tab](screenshots/Screenshot_20210130_203654.png)
 
