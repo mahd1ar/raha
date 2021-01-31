@@ -19,7 +19,7 @@ or you can just click on the green button above and click download.
 open google chrome.
 
 ### open Chrome extensions tab
-click on the menu on from the top on the right side of your Chrome window, click setting to open up the settings panel, and then click "Extensions" button
+click on the menu from the top on the right side of your Chrome window, click setting to open up the settings panel, and then click "Extensions" button
 ![sceenshot of chrome settings](screenshots/Screenshot_20210131_103858.png)
 
 ### Load Extension (manually!)
