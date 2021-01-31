@@ -22,7 +22,7 @@ open google chrome.
 click on the menu on from the top on the right side of your Chrome window, click setting to open up the settings panel, and then click "Extensions" button
 ![sceenshot of chrome settings](screenshots/Screenshot_20210131_103858.png)
 
-### Load Extensions (manually!)
+### Load Extension (manually!)
 first, toggle "Developer mode" and then click "Load unpacked" and select the project folder
 ![screenshot of chrome extention tab](screenshots/Screenshot_20210130_203654.png)
 
